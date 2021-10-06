@@ -10,7 +10,7 @@ gem 'rails', '~> 5.2.1'
 gem 'sqlite3'
 
 # 変更点
-# gem 'pg'
+gem 'pg'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
